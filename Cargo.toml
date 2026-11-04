@@ -1,0 +1,4 @@
+[workspace]
+members = ["sections/*/*"]
+exclude = ["exercises", "solutions"]
+resolver = "3"
